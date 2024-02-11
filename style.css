@@ -114,10 +114,9 @@ input:checked:before {
   border-radius: 50%;
 }
 
-/*declaracao*/
 #acertos {
 text-align: center;
-background-color: #a3e635;
+background-color: #a3e2e8;
 position: fixed;
 bottom: 0;
 left: 0;
